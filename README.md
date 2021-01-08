@@ -11,7 +11,5 @@
 
 <h1>My contributions</h1>
 <p align="center">
-  <a href="https://github.com/Nkap23/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkap23"/>
-  </a>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkap23&theme=highcontrast">
 </p>
