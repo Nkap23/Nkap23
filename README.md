@@ -3,13 +3,13 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Nkap23&color=blue"></p>
 
-<h1>About Me</h1>
+<h3>About Me</h3>
 <ul>
   <li>I am 3rd year Computer Engineering student at Pandit Deendayal Petroleum University, Gandhinagar</li>
   <li>Areas of Expertise: Data Science & Machine Learning, Data Structures & Algorithms</li>
 </ul>
 
-<h1>My contributions</h1>
+<h3>My contributions</h3>
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkap23&theme=highcontrast">
 </p>
