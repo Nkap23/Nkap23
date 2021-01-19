@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nisarg-kapkar/">
+  <a href="https://www.linkedin.com/in/nisarg-kapkar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://nisargkapkar.medium.com/">
+  <a href="https://nisargkapkar.medium.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
   </a>
-  <a href="https://nisargkapkar.hashnode.dev/">
+  <a href="https://nisargkapkar.hashnode.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white">
   </a>
-  <a href="https://www.kaggle.com/nisargkapkar">
+  <a href="https://www.kaggle.com/nisargkapkar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-2596BE?style=flat&logo=kaggle&logoColor=white">
   </a>
-  <a href="https://www.codechef.com/users/n_kap">
+  <a href="https://www.codechef.com/users/n_kap" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white">
   </a>
   <a href="mailto:nisargkapkar00@gmail.com">
