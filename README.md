@@ -67,35 +67,35 @@ Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & A
 </h3>
 <h4>Areas of Expertise/Interest</h4>
 <p>
-  <img src="https://img.shields.io/badge/Data%20Science-D96826?style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning-74CB34?style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Science-D96826?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-74CB34?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=flat&logoColor=white">
 </p>
 <h4>Programming Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
 </p>
 <h4>Python Libraries</h4>
 <p>
-  sklearn
-  numpy
-  panda
-  matplotlib
-  seaborn
-  tensorflow
-  opencv
-  pil
-  nltk
+  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-50458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow2-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-D96826?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-74CB34?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Pillow-14354C?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/NLTK-3E50C1?style=flat&logoColor=white">
 </p>
 <h4>Web Development</h4>
 <p>
-  html
-  css
-  js
-  bootstrap
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
 </p>
 <details>
   <summary>More Skills</summary>
