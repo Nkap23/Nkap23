@@ -61,7 +61,10 @@ Areas of Expertise: Data Science, Machine Learning, Data Structures & Algorithms
   <li><a href="https://medium.com/analytics-vidhya/training-your-first-machine-learning-model-with-sklearn-e03d5de3bfba">Training your First Machine Learning Model with Python’s sklearn</a></li>
   <li><a href="https://nisargkapkar.hashnode.dev/nlp-basic-pattern-matching-using-pythons-spacy-library">NLP: Basic Pattern Matching using Python's spaCy library</a></li>
 </ul>
-  
+
+<h3>
+  GitHub Stats 📊
+</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nkap23&show_icons=true&theme=vision-friendly-dark">
 </p>
