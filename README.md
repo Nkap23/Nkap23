@@ -21,11 +21,13 @@
   </a>
 </p>
 
-<h3>About Me</h3>
-<ul>
-  <li>I am 3rd year Computer Engineering student at Pandit Deendayal Petroleum University, Gandhinagar</li>
-  <li>Areas of Expertise: Data Science & Machine Learning, Data Structures & Algorithms</li>
-</ul>
+Hello World 👋
+<br/>
+<br/>
+I'm Nisarg Kapkar, Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Petroleum University, Gandhinagar, India. I am a Data Science Enthusiast and a Competitive Programmer. I also like designing and developing websites in my free time.
+<br/>
+<br/>
+Areas of Expertise: Data Science, Machine Learning, Data Structures & Algorithms.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nkap23&show_icons=true&theme=vision-friendly-dark">
