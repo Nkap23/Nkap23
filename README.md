@@ -68,8 +68,8 @@ Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & A
 <h4>Areas of Expertise/Interest</h4>
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-D96826?style=plastic&logoColor=white">
-  Machine Learning 
-  Data Struts and Algorithm
+  <img src="https://img.shields.io/badge/Machine%20Learning-74CB34?style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=plastic&logoColor=white">
 </p>
 <h4>Programming Languages</h4>
 <p>
