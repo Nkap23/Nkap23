@@ -29,6 +29,16 @@ I'm Nisarg Kapkar, Computer Engineering undergraduate student (2018-2022 batch) 
 <br/>
 Areas of Expertise: Data Science, Machine Learning, Data Structures & Algorithms.
 
+<h3>
+  My Projects 👨‍💻
+</h3>
+<ul>
+  <li><a href="https://github.com/Project-SafeShop">Project SafeShop</a></li>
+  <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Image & Video Background Removal using Deep Learning</a></li>
+  <li><a href="https://github.com/Nkap23/TensorFlow_with_Colab_tutorial">Dog Breed Classifier using TensorFlow 2</a></li>
+  <li><a href="https://github.com/ParthPrajapati43/OS-Algorithms">OS Scheduling Algorithm Visualization</a></li>
+</ul>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nkap23&show_icons=true&theme=vision-friendly-dark">
 </p>
