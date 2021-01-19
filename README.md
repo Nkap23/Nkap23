@@ -7,31 +7,24 @@
 </p>
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/nisarg-kapkar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
-  
   <a href="https://nisargkapkar.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
   </a>
-  
   <a href="https://nisargkapkar.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white">
   </a>
-  
   <a href="https://www.kaggle.com/nisargkapkar">
     <img src="https://img.shields.io/badge/Kaggle-2596BE?style=flat&logo=kaggle&logoColor=white">
   </a>
-  
   <a href="https://www.codechef.com/users/n_kap">
     <img src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white">
   </a>
-  
   <a href="mailto:nisargkapkar00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  
 </p>
 
 Hello World 👋
@@ -106,15 +99,6 @@ Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & A
 </p>
 </details>
 
-<!--<details>
-  <summary>Programming Languages</summary>
-  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white">
-</details>-->
-
-
 <h3>
   GitHub Stats 📊
 </h3>
@@ -125,4 +109,12 @@ Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & A
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkap23&theme=vision-friendly-dark">
 </p>
 
-NOTE: UNDER CONSTRUCTION
+<h3>
+  Some Quotes ✨
+</h3>
+<ul>
+  <li>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.</li>
+  <li>Don’t practice until you get it right. Practice until you can’t get it wrong.</li>
+  <li>Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them. You're strong enough to make your own path.</li>
+  <li>It's not our abilities that show what we truly are. It is our choices.</li>
+  <li>Nee heb je, ja kun je krijgen. (Translation: You already have no for an answer, but you could get a yes)</li>
