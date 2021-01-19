@@ -40,7 +40,7 @@ Hello World 👋
 I'm Nisarg Kapkar, Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Petroleum University, Gandhinagar, India. I am a Data Science Enthusiast and a Competitive Programmer. I also like designing and developing websites in my free time.
 <br/>
 <br/>
-Areas of Expertise: Data Science, Machine Learning, Data Structures & Algorithms.
+Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & Algorithms.
 
 <h3>
   Projects 👨‍💻
@@ -63,12 +63,59 @@ Areas of Expertise: Data Science, Machine Learning, Data Structures & Algorithms
 </ul>
 
 <h3>
+  Skills 💼
+</h3>
+<h4>Areas of Expertise/Interest</h4>
+<p>
+  <img src="https://img.shields.io/badge/Data%20Science-D96826?style=plastic&logoColor=white">
+  Machine Learning 
+  Data Struts and Algorithm
+</p>
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white">
+</p>
+<h4>Python Libraries</h4>
+<p>
+  sklearn
+  numpy
+  panda
+  matplotlib
+  seaborn
+  tensorflow
+  opencv
+  pil
+  nltk
+</p>
+<h4>Web Development</h4>
+<p>
+  html
+  css
+  js
+  bootstrap
+</p>
+<details>
+  <summary>More Skills</summary>
+</details>
+
+<!--<details>
+  <summary>Programming Languages</summary>
+  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white">
+</details>-->
+
+
+<h3>
   GitHub Stats 📊
 </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nkap23&show_icons=true&theme=vision-friendly-dark">
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkap23&theme=vision-friendly-dark">
 </p>
