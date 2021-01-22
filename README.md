@@ -96,7 +96,6 @@ Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & A
   <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white">
-</p>
 </details>
 
 <h3>
