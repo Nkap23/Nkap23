@@ -117,3 +117,4 @@ Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & A
   <li>Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them. You're strong enough to make your own path.</li>
   <li>It's not our abilities that show what we truly are. It is our choices.</li>
   <li>Nee heb je, ja kun je krijgen. (Translation: You already have no for an answer, but you could get a yes)</li>
+</ul>
