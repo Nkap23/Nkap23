@@ -30,7 +30,7 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Nisarg Kapkar, Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Petroleum University, Gandhinagar, India. I am a Data Science Enthusiast and a Competitive Programmer. I also like designing and developing websites in my free time.
+I'm Nisarg Kapkar, Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Petroleum University, Gandhinagar, India. I am a Data Science Enthusiast and a Competitive Programmer. I also like designing & developing websites in my free time.
 <br/>
 <br/>
 Areas of Expertise/Interest: Data Science, Machine Learning, Data Structures & Algorithms.
