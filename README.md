@@ -8,32 +8,29 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nisarg-kapkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a hred="https://twitter.com/nnkkaapp">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://nisargkapkar.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="https://nisargkapkar.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/nisargkapkar">
-    <img src="https://img.shields.io/badge/Kaggle-2596BE?style=flat&logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://www.codechef.com/users/n_kap">
-    <img src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
   <a href="mailto:nisargkapkar00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 Hello World 👋
 <br/>
 <br/>
-I'm Nisarg Kapkar, Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Energy University, Gandhinagar, India. I am a Software Developer, a Competitive Programmer & Data Science and Machine Learning Enthusiast. I also design and develope websites in my free time.
+I'm Nisarg Kapkar, a Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Energy University, Gandhinagar, India. I am a Software Developer and Product Management Enthusiast. I also do technical writing & blogging in my free time.
 <br/>
 <br/>
-Areas of Expertise/Interest: Software Development, Data Structures & Algorithms, Web Development, Data Science & Machine Learning.
+Areas of Expertise/Interest: Software Engineering, Data Structures & Algorithms, Web Development, Product Management.
 
 <h3>
   Projects 👨‍💻
@@ -41,8 +38,8 @@ Areas of Expertise/Interest: Software Development, Data Structures & Algorithms,
 <ul>
   <li><a href="https://github.com/Project-SafeShop">Project SafeShop</a></li>
   <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Image & Video Background Removal using Deep Learning</a></li>
-  <li><a href="https://github.com/Nkap23/TensorFlow_with_Colab_tutorial">Dog Breed Classifier using TensorFlow 2</a></li>
-  <li><a href="https://github.com/ParthPrajapati43/OS-Algorithms">OS Scheduling Algorithm Visualization</a></li>
+  <li><a href="https://github.com/Nkap23/WebDev_Projects/tree/main/Polling_App(Project%202)">Quick Poll</a></li>
+  <li><a href="https://github.com/Nkap23/WebDev_Projects/tree/main/GitHub_User_Database(Project1)">Github User Profile Database for University Students</a></li>
 </ul>
 
 <h3>
@@ -60,44 +57,38 @@ Areas of Expertise/Interest: Software Development, Data Structures & Algorithms,
 </h3>
 <h4>Areas of Expertise/Interest</h4>
 <p>
-  <img src="https://img.shields.io/badge/Data%20Science-D96826?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning-74CB34?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Software%20Engineering-D96826?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Product%20Management-74CB34?style=for-the-badge&logoColor=white">
 </p>
 <h4>Programming Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-</p>
-<h4>Python Libraries</h4>
-<p>
-  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-50458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow2-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-D96826?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-74CB34?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/Pillow-14354C?style=flat&logoColor=white">
-  <img src="https://img.shields.io/badge/NLTK-3E50C1?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </p>
 <h4>Web Development</h4>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
-<details>
-  <summary>More Skills</summary>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white">
-</details>
+<h4>More Skills</hr>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
+</p>
 
 <h3>
   GitHub Stats 📊
