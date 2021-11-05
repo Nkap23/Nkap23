@@ -13,9 +13,6 @@
   <a href="https://twitter.com/nnkkaapp">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://nisargkapkar.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
   <a href="https://nisargkapkar.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
@@ -27,56 +24,51 @@
 Hello World 👋
 <br/>
 <br/>
-I'm Nisarg Kapkar, a Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Energy University, Gandhinagar, India. I am a Software Developer and Product Management Enthusiast. I also do technical writing & blogging in my free time.
+I'm Nisarg Kapkar, a Computer Engineering undergraduate student (2018-2022 batch) at Pandit Deendayal Energy University, Gandhinagar, India. I am a Full-Stack Developer and Product Management Enthusiast. I also do technical writing & blogging in my free time.
 <br/>
 <br/>
-Areas of Expertise/Interest: Software Engineering, Data Structures & Algorithms, Web Development, Product Management.
+Areas of Expertise/Interest: Software Engineering, Data Structures & Algorithms, Product Management, UI-UX Designing.
 
 <h3>
   Projects 👨‍💻
 </h3>
 <ul>
-  <li><a href="https://github.com/Project-SafeShop">Project SafeShop</a></li>
+  <li><a href="https://github.com/Nkap23/CodeConnect">CodeConnect | Collaborative Code Editor & Compiler</a></li>
+  <li><a href="https://github.com/Nkap23/QuickPoll">QuickPoll | Fullstack Polling Application</a></li>
+  <li><a href="https://github.com/Project-SafeShop">SafeShop | System to ensure safe opening of shops during COVID</a></li>
   <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Image & Video Background Removal using Deep Learning</a></li>
-  <li><a href="https://github.com/Nkap23/WebDev_Projects/tree/main/Polling_App(Project%202)">Quick Poll</a></li>
-  <li><a href="https://github.com/Nkap23/WebDev_Projects/tree/main/GitHub_User_Database(Project1)">Github User Profile Database for University Students</a></li>
 </ul>
 
 <h3>
   Latest Blogs 📝
 </h3>
 <ul>
+  <li><a href="https://nisargkapkar.hashnode.dev/eli5-javascript-the-spread-operator">ELI5 JavaScript: The Spread (...) Operator</a></li>
   <li><a href="https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc">TensorFlow 2 Object Detection API With Google Colab</a></li>
   <li><a href="https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning">Image & Video Background Removal using Deep Learning</a></li>
   <li><a href="https://medium.com/analytics-vidhya/training-your-first-machine-learning-model-with-sklearn-e03d5de3bfba">Training your First Machine Learning Model with Python’s sklearn</a></li>
-  <li><a href="https://nisargkapkar.hashnode.dev/nlp-basic-pattern-matching-using-pythons-spacy-library">NLP: Basic Pattern Matching using Python's spaCy library</a></li>
 </ul>
 
 <h3>
   Skills 💼
 </h3>
-<h4>Areas of Expertise/Interest</h4>
-<p>
-  <img src="https://img.shields.io/badge/Software%20Engineering-D96826?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-3E50C1?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Product%20Management-74CB34?style=for-the-badge&logoColor=white">
-</p>
 <h4>Programming Languages</h4>
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </p>
-<h4>Web Development</h4>
+<h4>Frontend Development</h4>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue">
+  <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p>
 <h4>More Skills</h4>
 <p>
