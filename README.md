@@ -30,26 +30,6 @@ I'm Nisarg Kapkar, a Computer Engineering undergraduate student (2018-2022 batch
 Areas of Expertise/Interest: Software Engineering, Data Structures & Algorithms, Product Management, UI-UX Designing.
 
 <h3>
-  Projects 👨‍💻
-</h3>
-<ul>
-  <li><a href="https://github.com/Nkap23/CodeConnect">CodeConnect | Collaborative Code Editor & Compiler</a></li>
-  <li><a href="https://github.com/Nkap23/QuickPoll">QuickPoll | Fullstack Polling Application</a></li>
-  <li><a href="https://github.com/Project-SafeShop">SafeShop | System to ensure safe opening of shops during COVID</a></li>
-  <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Image & Video Background Removal using Deep Learning</a></li>
-</ul>
-
-<h3>
-  Latest Blogs 📝
-</h3>
-<ul>
-  <li><a href="https://nisargkapkar.hashnode.dev/eli5-javascript-the-spread-operator">ELI5 JavaScript: The Spread (...) Operator</a></li>
-  <li><a href="https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc">TensorFlow 2 Object Detection API With Google Colab</a></li>
-  <li><a href="https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning">Image & Video Background Removal using Deep Learning</a></li>
-  <li><a href="https://medium.com/analytics-vidhya/training-your-first-machine-learning-model-with-sklearn-e03d5de3bfba">Training your First Machine Learning Model with Python’s sklearn</a></li>
-</ul>
-
-<h3>
   Skills 💼
 </h3>
 <h4>Programming Languages</h4>
@@ -91,6 +71,27 @@ Areas of Expertise/Interest: Software Engineering, Data Structures & Algorithms,
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
+
+
+<h3>
+  Projects 👨‍💻
+</h3>
+<ul>
+  <li><a href="https://github.com/Nkap23/CodeConnect">CodeConnect | Collaborative Code Editor & Compiler</a></li>
+  <li><a href="https://github.com/Nkap23/QuickPoll">QuickPoll | Fullstack Polling Application</a></li>
+  <li><a href="https://github.com/Project-SafeShop">SafeShop | System to ensure safe opening of shops during COVID</a></li>
+  <li><a href="https://github.com/Nkap23/u2net_bgremove_code">Image & Video Background Removal using Deep Learning</a></li>
+</ul>
+
+<h3>
+  Latest Blogs 📝
+</h3>
+<ul>
+  <li><a href="https://nisargkapkar.hashnode.dev/eli5-javascript-the-spread-operator">ELI5 JavaScript: The Spread (...) Operator</a></li>
+  <li><a href="https://medium.com/swlh/tensorflow-2-object-detection-api-with-google-colab-b2af171e81cc">TensorFlow 2 Object Detection API With Google Colab</a></li>
+  <li><a href="https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning">Image & Video Background Removal using Deep Learning</a></li>
+  <li><a href="https://medium.com/analytics-vidhya/training-your-first-machine-learning-model-with-sklearn-e03d5de3bfba">Training your First Machine Learning Model with Python’s sklearn</a></li>
+</ul>
 
 <h3>
   GitHub Stats 📊
